@@ -9,7 +9,7 @@ count = [0]
 @app.route("/")
 def index():
     count[0] += 1
-    return "Hello from Barcelona 2026, but REBUILT!!!"
+    return "Hello from Barcelona 2026, but RE-RE-REBUILT!!!"
 
 
 if __name__ == "__main__":
